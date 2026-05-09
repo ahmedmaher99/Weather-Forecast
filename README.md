@@ -81,10 +81,9 @@ Weather-Forecast-Dashboard/
 │
 ├── Weather Dashboard_final.pbix
 ├── README.md
-└── images/
-    ├── orange-dashboard.png
-    ├── blue-dashboard.png
-    └── combined-dashboard.png
+├── orange-dashboard.png
+├── blue-dashboard.png
+└── combined-dashboard.png
 ```
 
 ---
