@@ -43,7 +43,7 @@ The project focuses on combining **data analytics**, **API integration**, and **
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✔️ Live weather data integration using API
 
@@ -65,12 +65,12 @@ The project focuses on combining **data analytics**, **API integration**, and **
 
 # 🛠️ Tools & Technologies
 
-- 📊 Power BI
-- 🌐 Weather API Integration
-- 📈 Data Visualization
-- 📂 Data Modeling
-- 📉 KPI Analytics
-- 🎨 Dashboard UI/UX Design
+-  Power BI
+-  Weather API Integration
+-  Data Visualization
+-  Data Modeling
+-  KPI Analytics
+-  Dashboard UI/UX Design
 
 ---
 
