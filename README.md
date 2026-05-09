@@ -36,7 +36,7 @@ The project focuses on combining **data analytics**, **API integration**, and **
 ![Orange Dashboard](images/orange-dashboard.png)
 
 ## Blue Theme
-![Blue Dashboard](images/blue-dashboard.png)
+![Blue Dashboard](https://github.com/ahmedmaher99/Weather-Forecast/blob/main/Weather%20Forecast%20Dashboard%20Blue%20Design%20.png)
 
 ## Combined Theme
 ![Combined Dashboard](images/combined-dashboard.png)
