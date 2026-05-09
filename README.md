@@ -79,7 +79,7 @@ The project focuses on combining **data analytics**, **API integration**, and **
 ```bash
 Weather-Forecast-Dashboard/
 │
-├── Weather Dashboard_final.pbix
+├── Weather Dashboard.pbix
 ├── README.md
 ├── orange-dashboard.png
 ├── blue-dashboard.png
