@@ -101,18 +101,6 @@ The project showcases:
 - UI/UX dashboard design
 - Data visualization best practices
 
----
-
-# 💡 What I Learned
-
-Through this project, I improved my skills in:
-
-- Building interactive Power BI dashboards
-- Integrating APIs with Power BI
-- Handling live and dynamic datasets
-- Designing modern dashboard themes
-- Creating KPI-focused reports
-- Presenting data professionally
 
 ---
 
@@ -127,9 +115,8 @@ Through this project, I improved my skills in:
 
 # 🔗 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-maher99
+- 📧 Email: ahmed.maher.w515@gmail.com
 
 ---
 
