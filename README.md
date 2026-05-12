@@ -1,28 +1,28 @@
-# 🌦️ Weather Forecast Dashboard | Power BI
+#  Weather Forecast Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![API](https://img.shields.io/badge/API-Live%20Data-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-## 📌 Project Overview
+##  Project Overview
 
 An interactive **Weather Forecast Dashboard** built with **Power BI** that integrates with a live weather API to fetch real-time weather data and forecast insights in a modern and user-friendly design.
 
 This dashboard transforms raw weather data into meaningful visual analytics to help users quickly understand:
 
-- 🌡️ Temperature trends
-- 💧 Humidity levels
-- 🌧️ Rain probability
-- 🌬️ Wind speed & conditions
-- ☀️ UV index
-- 👁️ Visibility
-- 🌅 Sunrise & sunset information
+-  Temperature trends
+-  Humidity levels
+-  Rain probability
+-  Wind speed & conditions
+-  UV index
+-  Visibility
+-  Sunrise & sunset information
 
 The project focuses on combining **data analytics**, **API integration**, and **modern dashboard design** into one professional business intelligence solution.
 
 ---
 
-# 🎨 Dashboard Themes
+#  Dashboard Themes
 
 - 🟠 Orange Theme Design
 - 🔵 Blue Theme Design
@@ -63,7 +63,7 @@ The project focuses on combining **data analytics**, **API integration**, and **
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 -  Power BI
 -  Weather API Integration
@@ -88,7 +88,7 @@ Weather-Forecast-Dashboard/
 
 ---
 
-# 📈 Business Value
+#  Business Value
 
 This dashboard demonstrates how live weather API data can be transformed into actionable insights using advanced data visualization techniques.
 
@@ -104,7 +104,7 @@ The project showcases:
 
 ---
 
-# 📥 How to Use
+#  How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
@@ -113,7 +113,7 @@ The project showcases:
 
 ---
 
-# 🔗 Connect With Me
+#  Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/ahmed-maher99
 - 📧 Email: ahmed.maher.w515@gmail.com
